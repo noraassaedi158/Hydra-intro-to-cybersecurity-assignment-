@@ -1,8 +1,9 @@
 # 🐉 Hydra Cybersecurity Project
-
-**Course:** Cybersecurity  
+**Course:** Intro to cybersecurity  
 **Instructor:** Dr. Ibtisam Al-Harbi  
 
+## Project Report
+[Read the full project report](Hydra_Cybersecurity_Project.pdf)
 
 ## 📌 About
 This project explores **THC-Hydra**, an open-source network login auditing tool used to assess password security and identify weaknesses in authentication systems.
@@ -24,6 +25,7 @@ The project covers Hydra's features, installation, comparison with other securit
 ## 📄 Project Report
 The complete report includes installation instructions, practical demonstrations, command explanations, screenshots, tool comparisons, challenges, team contributions, and references.
 See the full project report uploaded in this repository for details.
+
 
 ## 👥 Team Members
 
