@@ -34,10 +34,10 @@ See the full project report uploaded in this repository for details.
 
 ## 👥 Team Members
 
-- Lana Al-aibyani — `446006524`
-- Nora Assaedi — `445007859`
-- Al-Majd Zahir — `446006234`
-- Waref Mishal — `44611845`
+- Lana Al-aibyani `
+- Nora Assaedi `
+- Al-Majd Zahir `
+- Waref Mishal `
 
 ## My Contributions
 My contributions to this project included:
