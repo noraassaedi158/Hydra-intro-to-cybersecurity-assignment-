@@ -2,6 +2,13 @@
 **Course:** Intro to cybersecurity  
 **Instructor:** Dr. Ibtisam Al-Harbi  
 
+## 🎥 Practical Video Demonstrations
+
+Watch my practical demonstrations from our Hydra cybersecurity project, showcasing selected authentication-testing exercises conducted in a controlled lab environment.
+
+📂 [**View All Project Videos on Google Drive**](https://drive.google.com/file/d/1Mzwbs0xZM2B7k4ME8OVcLX0i0UfPRHAj/view?usp=sharing) 
+
+
 
 ## 📌 About
 This project explores **THC-Hydra**, an open-source network login auditing tool used to assess password security and identify weaknesses in authentication systems.
