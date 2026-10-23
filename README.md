@@ -2,8 +2,6 @@
 **Course:** Intro to cybersecurity  
 **Instructor:** Dr. Ibtisam Al-Harbi  
 
-## Project Report
-[Read the full project report](Hydra_Cybersecurity_Project.pdf)
 
 ## 📌 About
 This project explores **THC-Hydra**, an open-source network login auditing tool used to assess password security and identify weaknesses in authentication systems.
@@ -36,14 +34,15 @@ See the full project report uploaded in this repository for details.
 
 ## My Contributions
 My contributions to this project included:
--Researching Hydra's background, features, and relevance to cybersecurity.
--Explaining Hydra's installation requirements and lab setup.
--Comparing Hydra with Ncrack and other security tools.
--Documenting Hydra's CLI and Xhydra GUI installation and features.
--Demonstrating HTTP POST form and SSH authentication testing.
--Setting up and testing MariaDB/MySQL authentication.
--Connecting Kali Linux to TryHackMe through OpenVPN.
--Explaining the project's findings and contributing to the conclusion
+
+- Researching Hydra's background, features, and relevance to cybersecurity.
+- Explaining Hydra's installation requirements and lab setup.
+- Comparing Hydra with Ncrack and other security tools.
+- Documenting Hydra's CLI and Xhydra GUI installation and features.
+- Demonstrating HTTP POST form and SSH authentication testing.
+- Setting up and testing MariaDB/MySQL authentication.
+- Connecting Kali Linux to TryHackMe through OpenVPN.
+- Explaining the project's findings and contributing to the conclusion
 
 ## ⚠️ Disclaimer
 All demonstrations are intended for educational purposes and authorized security testing only.
